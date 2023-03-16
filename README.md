@@ -18,7 +18,7 @@ que precisa ser feito.
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 <ol> 
-      <li>Vue</li>
+      <li>Vue CLI</li>
       <li>bootstrap-vue</li>
       <li>localStorage</li>
     </ol>
@@ -46,8 +46,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </tr>
  </table>
  
- # jobby-app
-
 ## Project setup
 ```
 yarn install
@@ -70,4 +68,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# tarefa-vue
