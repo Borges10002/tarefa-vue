@@ -31,7 +31,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center">Dashboard</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Login.jpeg" width=200 height=400></td>
+    <td><img src="https://github.com/Borges10002/tarefa-vue/blob/main/src/assets/img/tarefa1.png" width=200 height=400></td>
   </tr>
  </table>
  
@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center">Cadastro</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Nova%20solicita%C3%A7%C3%A3o.jpeg" width=200 height=400></td>
+    <td><img src="https://github.com/Borges10002/tarefa-vue/blob/main/src/assets/img/tarefa2.png" width=200 height=400></td>
 
   </tr>
  </table>
