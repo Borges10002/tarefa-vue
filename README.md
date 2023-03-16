@@ -1,25 +1,47 @@
-# jobby-app
+<h1 align="center">
+   Tarefa - Controle de tarefas
+</h1>
+<h4 align="center"> 
+Projeto: 🚀 Concluído 🚀
+</h4>
+<p align="center">
+ <a href="#-objetivo">Objetivo</a> •
+ <a href="#-telas">Telas</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
+</p>
 
-## Project setup
-```
-yarn install
-```
+## 💻 Objetivo
+ 
+Tarefa é uma aplicação web que te ajuda a controla sua tarefa não precisa fica escrevendo em cardeno e muitas vezes esquecendo do
+que precisa ser feito. 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+<ol> 
+      <li>Vue</li>
+      <li>bootstrap-vue</li>
+      <li>localStorage</li>
+    </ol>
+<p/>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 📱 Telas
 
-### Lints and fixes files
-```
-yarn lint
-```
+<table align="center" display=flex>
+  <tr>
+    <td align="center">Dashboard</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Login.jpeg" width=200 height=400></td>
+  </tr>
+ </table>
+ 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# tarefa-vue
+ <table align="center"  display=flex>
+  <tr>
+    <td align="center">Cadastro</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Nova%20solicita%C3%A7%C3%A3o.jpeg" width=200 height=400></td>
+
+  </tr>
+ </table>

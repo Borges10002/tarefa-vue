@@ -88,9 +88,7 @@
 </template>
 
 <script>
-
 export default {
-
   computed: {
     titleState() {
       return this.title.length > 9 ? true : false;
@@ -110,15 +108,14 @@ export default {
       descricao2: "",
       descricao3: "",
       data: "",
-      title: ""
+      title: "",
     };
   },
 
   methods: {
-    
     add() {
       this.data = new Date().toLocaleString();
-      
+
       this.$emit("taskAdded", {
         descricao1: this.descricao1,
         descricao2: this.descricao2,
@@ -130,7 +127,6 @@ export default {
       this.descricao2 = "";
       this.descricao3 = "";
       this.title = "";
-  
     },
   },
 };
