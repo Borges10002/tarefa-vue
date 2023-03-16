@@ -1,5 +1,5 @@
 <h1 align="center">
-   Tarefa - Controle de tarefas
+   Tarefa
 </h1>
 <h4 align="center"> 
 Projeto: 🚀 Concluído 🚀
