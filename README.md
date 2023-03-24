@@ -12,7 +12,7 @@ Projeto: 🚀 Concluído 🚀
 
 ## 💻 Objetivo
  
-Tarefa é uma aplicação web que te ajuda a controla sua tarefa não precisa fica escrevendo em cardeno e muitas vezes esquecendo do
+Tarefa é uma aplicação web que te ajuda a controla sua tarefa não precisa fica escrevendo em caderno e muitas vezes esquecendo do
 que precisa ser feito. 
 
 ## 🛠 Tecnologias
